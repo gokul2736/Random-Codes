@@ -6,13 +6,13 @@ Random Cheat Codes
 
 1. Close all Incognito Windows (It just clears the session anthe)
 2. Clear DNS Catche
-  > Open chrome and type:
+   Open chrome and type:
    ```
    chrome://net-internals/#dns
    ```
- clicks on "clear host cache"
+3. Click on "clear host cache"
 
- Bonus: In windows
+### Bonus: In windows
   ```
 ipconfig/flushdns
   ```
