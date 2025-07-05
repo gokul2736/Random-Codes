@@ -118,3 +118,8 @@ SSID spoofing can be used to mirror networks and grab credentials.
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-100000?style=flat&logo=obs-studio&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-000000?style=flat&logo=audacity&logoColor=white)
 ![Sony Alpha](https://img.shields.io/badge/Sony%20Alpha-000000?style=flat&logo=sony&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
