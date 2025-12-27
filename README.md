@@ -1,8 +1,15 @@
-# Random-Codes
+# Random
 Random Cheat Codes 
 
 
-Cloudflare Tunnels	Host local apps online	Useful for BTech projects
+
+
+## IPTV Git link
+```
+https://iptv-org.github.io/iptv/index.m3u
+```
+
+
 
 ## To Clear chrome Incognito Catche
 
@@ -96,11 +103,3 @@ Captive portals trust the MAC address instead of validating user identity secure
 
 SSID spoofing can be used to mirror networks and grab credentials.
 
-
-
-
-## profile changes
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
